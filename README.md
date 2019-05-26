@@ -28,6 +28,7 @@ Pagine mancanti:
   Utenza Meccanico  
     - Modifica Dati Veicolo  
     - Cancella Veicolo  
+    - Regisrea nuova operazione
   Utenza Cliente  
     - Visualizza macchina/e (Dati riguardanti operazioni ed interventi, e le fatture)  
     - pagina per creare username e password dato il codice fiscale  
